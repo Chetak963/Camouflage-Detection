@@ -20,17 +20,8 @@ https://dengpingfan.github.io/pages/COD.html
 
 After downloading, place it inside:
 
-data/
-└── COD10K/
-    ├── Train/
-    │   ├── Image/
-    │   ├── GT_Object/
-    │
-    ├── Test/
-    │   ├── Image/
-    │   ├── GT_Object/
-
----
+data/COD10K/
+    
 
 ## Architecture
 - Encoder: ResNet50
