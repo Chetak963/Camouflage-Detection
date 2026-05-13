@@ -12,6 +12,13 @@ The model performs pixel-wise segmentation of hidden camouflaged objects.
 
 ---
 
+## 🚀 Live Demo
+
+[Open Web App](https://eren03493-camouflage-detection.hf.space)
+
+---
+
+
 ## Dataset
 
 Download COD10K dataset from:
