@@ -58,7 +58,3 @@ data/
 ```bash
 pip install -r requirements.txt
 
-## Training
-
-```bash
-python -m src.train
